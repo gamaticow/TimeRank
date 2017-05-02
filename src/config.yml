@@ -1,0 +1,23 @@
+##########################################
+#          TimeRank by Gamatico          #
+##########################################
+
+##########################################
+#              Rank Config               #
+##########################################
+rank:
+  exemple1:
+    displayName: "&6Exemple &a1"
+    # Time in second
+    timeNeeded: 60
+    permissions:
+    - exemple.1
+    - exemple.2
+
+  exemple2:
+    displayName: "&7Exemple &32"
+    timeNeeded: 120
+    permissions:
+    - exemple.1
+    - exemple.2
+    - exemple.3
